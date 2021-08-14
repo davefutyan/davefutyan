@@ -1,4 +1,4 @@
-- I am the developer of CHEOPSim, the simulator for the CHEOPS space telescope mission, described in the following publication:
+- I am the developer of CHEOPSim, the simulator for the [CHEOPS](https://cheops.unibe.ch) space telescope mission, described in the following publication:
 https://arxiv.org/abs/2001.05587
 - I have set up this github account in order to make the CHEOPSim software publically available
 
